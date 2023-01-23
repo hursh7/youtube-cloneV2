@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "_IiHofDvVKr_Jl-j6tomoDG9I5c",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZO7Oc3sSKbVkbFcIfg433Yttru4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fHcv3K25N_M"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-17T21:56:50Z",
+        "channelId": "UCChcWqwYXCEs657MQ00qVWA",
+        "title": "Wolves v Liverpool | Key Moments | Third Round Replay | Emirates FA Cup 2022-23",
+        "description": "Watch the key moments from Wolves v Liverpool in the third round replay of the Emirates FA Cup. Follow @EmiratesFACup on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fHcv3K25N_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fHcv3K25N_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fHcv3K25N_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Emirates FA Cup",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-17T21:56:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wiApcqwA_KiERy6-3TkWdwCf94k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ioSIXT8BEqk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-17T14:30:27Z",
+        "channelId": "UCNAf1k0yIjyGu3k9BwAg3lg",
+        "title": "How are Chelsea staying within Financial Fair Play rules? 🔎",
+        "description": "SUBSCRIBE ▻ https://bit.ly/SubscribeSkySportsPL PREMIER LEAGUE HIGHLIGHTS ▻ http://bit.ly/SkySportsPLHighlights2223 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ioSIXT8BEqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ioSIXT8BEqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ioSIXT8BEqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sky Sports Premier League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-17T14:30:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-8Xq5pCzklNRwZKX1zCdZgi7dlI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vsTOf3z-BiM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T22:07:09Z",
+        "channelId": "UCpryVRk_VDudG8SHXgWcG0w",
+        "title": "HIGHLIGHTS | Tottenham Hotspur vs Arsenal (0-2) | North London derby delight!",
+        "description": "A superb first-half display saw us record a first league double over Tottenham Hotspur since 2013/14 and more importantly move ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vsTOf3z-BiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vsTOf3z-BiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vsTOf3z-BiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Arsenal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T22:07:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zriwURGi9AzIY6EkwCjHkZ7NIQQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GTIw4n0f2MM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-14T17:20:50Z",
+        "channelId": "UC6yW44UGJJBvYTlfC7CRg2Q",
+        "title": "MANCHESTER DERBY WIN! 🔴🤩 | Man Utd 2-1 Man City | Highlights",
+        "description": "A second-half comeback at Old Trafford saw Marcus Rashford tap in the winner after Bruno Fernandes scored the equaliser to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GTIw4n0f2MM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GTIw4n0f2MM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GTIw4n0f2MM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Manchester United",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-14T17:20:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DSTVmvuhucqv3OJzbTaNWApe48E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oFqRgxNSbBU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-16T00:00:16Z",
+        "channelId": "UCkzCjdRMrW2vXLx8mvPVLdQ",
+        "title": "EXTENDED HIGHLIGHTS | Man United 2 - 1 Man City | Defeat in the 189th Manchester Derby",
+        "description": "SUBSCRIBE! http://www.youtube.com/subscription_center?add_user=mancity http://www.mancity.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oFqRgxNSbBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oFqRgxNSbBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oFqRgxNSbBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Man City",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-16T00:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EmyvlJsqce0SPV0gutSJJySeM4g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QfC1fcg02z4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-14T22:00:13Z",
+        "channelId": "UC9LQwHZoucFT94I2h6JOcjw",
+        "title": "Highlights: Brighton &amp; Hove Albion 3-0 Liverpool | Reds beaten at the AMEX",
+        "description": "Watch the key moments from Liverpool's disappointing Premier League defeat at Brighton. Never miss a moment, and get ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QfC1fcg02z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QfC1fcg02z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QfC1fcg02z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Liverpool FC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-14T22:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tYL6ptYUsn7LE8ge1lRWfAsc0AM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4LB4Pw9sArA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-16T00:00:01Z",
+        "channelId": "UCf-cpC9WAdOsas19JHipukA",
+        "title": "Extended PL Highlights: Albion 3 Liverpool 0",
+        "description": "Extended action from Brighton & Hove Albion's emphatic win over Liverpool.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4LB4Pw9sArA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4LB4Pw9sArA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4LB4Pw9sArA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Official Brighton & Hove Albion FC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-16T00:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CwM4mJQkhlWLF8idjOJNlLIgkWM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lCBnzzu4Jgk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-14T22:00:19Z",
+        "channelId": "UCtK4QAczAN2mt2ow_jlGinQ",
+        "title": "EVERTON 1-2 SOUTHAMPTON | PREMIER LEAGUE HIGHLIGHTS",
+        "description": "Premier League highlights from Everton's fixture at Goodison Park against Southampton. Subscribe to Everton Football Club's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lCBnzzu4Jgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lCBnzzu4Jgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lCBnzzu4Jgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Everton Football Club",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-14T22:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FL4TYAQNtvJGgHhz53TDzIpEWoQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rcb80SXB1vI"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-25T11:00:07Z",
+        "channelId": "UCkFGfvN6AAhoBVSqju0CgmA",
+        "title": "프리미어리그가 돌아왔습니다｜⭐해외축구 재개 기념⭐ 22/23 시즌 프리미어리그 상반기 결산",
+        "description": "프리미어리그 #해축 12월 26일 (월) 프리미어리그 다시 시작 ⚽ SPOTV NOW SPOTV표 황금레시피, SPOTV Originals!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rcb80SXB1vI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rcb80SXB1vI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rcb80SXB1vI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SPOTV 오리지널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-25T11:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xe-om7Zv7moFVMo-96QKHQTBe8s",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCG5qGWdu8nIRZqJ_GgDwQ-w"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-10T11:50:22Z",
+        "channelId": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+        "title": "Premier League",
+        "description": "Welcome to the official Premier League YouTube channel. Keep up to date with the latest content from the Premier League.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/_ReZkZsEOwJYajNodeVsGUo6ZtzVrd_1N3kceVAYnaYvoBkG1Emjf2GJn-gSbL0Rs3gGoCUOnjM=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/_ReZkZsEOwJYajNodeVsGUo6ZtzVrd_1N3kceVAYnaYvoBkG1Emjf2GJn-gSbL0Rs3gGoCUOnjM=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/_ReZkZsEOwJYajNodeVsGUo6ZtzVrd_1N3kceVAYnaYvoBkG1Emjf2GJn-gSbL0Rs3gGoCUOnjM=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Premier League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-10T11:50:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VK38pejqtCCcmPxHmUDNxX3Kd78",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WwfQB0Wth3Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T05:02:00Z",
+        "channelId": "UCtm_QoN2SIxwCE-59shX7Qg",
+        "title": "[22/23 PL 20R] 울버햄튼 vs 웨스트햄 황희찬 주요장면",
+        "description": "울버햄튼 원더러스 vs 웨스트햄 유나이티드 황희찬 주요장면 SPOTV NOW로 H/L 시청하기 (무료) ☞ https://bit.ly/3XbwngJ.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WwfQB0Wth3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WwfQB0Wth3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WwfQB0Wth3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SPOTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T05:02:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CxCEbMameEESvFAzf6mh978PW5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kN15OzpsOSg"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T22:00:13Z",
+        "channelId": "UCywGl_BPp9QhD0uAcP2HsJw",
+        "title": "Newcastle United 1 Fulham 0 | Premier League Highlights",
+        "description": "The best of the action from Newcastle United's 1-0 win over Fulham - Alexander Isak scored the only goal. For more from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kN15OzpsOSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kN15OzpsOSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kN15OzpsOSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Newcastle United",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T22:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZK4vw6YkmpZWIp6sfByX-pWhTiM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TKzzeh6CmXk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-16T14:30:09Z",
+        "channelId": "UCEK2PZR_LvdYXL2mnYKI4FQ",
+        "title": "Pep begs Mikel Arteta to let Man City win the Premier League",
+        "description": "Pep Guardiola rings his former number 2 Mikel Arteta and begs him to let Manchester City beat Arsenal in the race for the Premier ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TKzzeh6CmXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TKzzeh6CmXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TKzzeh6CmXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FarleyTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-16T14:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lPiUjQVBglekCzTDBP3Lw1N3Guk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F6gsQFfk2qs"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T22:06:40Z",
+        "channelId": "UCEg25rdRZXg32iwai6N6l0w",
+        "title": "Arsenal win FEISTY North London Derby | HIGHLIGHTS | Spurs 0-2 Arsenal",
+        "description": "Watch highlights from Tottenham Hotspur's Premier League clash with Arsenal. SPURSPLAY is live! Check it out now ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F6gsQFfk2qs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F6gsQFfk2qs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F6gsQFfk2qs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tottenham Hotspur",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T22:06:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HnWAt9KNtrDm5EUR82N54zanqy4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xh5tvotKNXo"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-14T22:00:20Z",
+        "channelId": "UCCNOsmurvpEit9paBOzWtUg",
+        "title": "Wolverhampton Wanderers 1-0 West Ham | Premier League Highlights",
+        "description": "Watch the Premier League highlights as Wolves played host to West Ham. ▻ Subscribe: http://bit.ly/1QALxTA ▻ Follow us on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xh5tvotKNXo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xh5tvotKNXo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xh5tvotKNXo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "West Ham United FC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-14T22:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_fJcFl4VwmQIrdshrLzexuZUlxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QZSQYrp2P8c"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T21:30:02Z",
+        "channelId": "UCNAf1k0yIjyGu3k9BwAg3lg",
+        "title": "&quot;They&#39;ve been left to be embarrassed&quot; 😬 | Paul Merson shocked by Tottenham&#39;s tactics",
+        "description": "SUBSCRIBE ▻ https://bit.ly/SubscribeSkySportsPL PREMIER LEAGUE HIGHLIGHTS ▻ http://bit.ly/SkySportsPLHighlights2223 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QZSQYrp2P8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QZSQYrp2P8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QZSQYrp2P8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sky Sports Premier League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T21:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FwaLYXGCU36fiwnyW-Ni1tt-YTs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QK9A5JJr8vE"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-30T03:30:05Z",
+        "channelId": "UC2qVOOz13xLXHaw9yW-aMXQ",
+        "title": "아스날 자체를 1위로 바꿔버렸다ㅋㅋㅋEPL 씹어먹는 외데가르드 수준",
+        "description": "다음 영상을 위해 구독해주세요 ! Please subscribe for the next video 광고,협업 문의 kldh12@naver.com #외데고르 #노르웨이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QK9A5JJr8vE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QK9A5JJr8vE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QK9A5JJr8vE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "동현kldh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-30T03:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g6xedaXa9RfRQHN_uUUUQ6UYp2M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C4htjVFlsYs"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-13T22:33:02Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Napoli-Juventus 5-1 | Absolute scenes in Naples! Goals &amp; Highlights | Serie A 2022/23",
+        "description": "An unforgettable night for Napoli as they annihilate Juventus at the Diego Maradona Stadium, defeating the Bianconeri by a 4-gol ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C4htjVFlsYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C4htjVFlsYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C4htjVFlsYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-13T22:33:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x7S03GR0wT6kVXIEwC6_NDTyJF8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eBJMbzvO58k"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-06T00:00:13Z",
+        "channelId": "UCU2PacFf99vhb3hNiYDmxww",
+        "title": "Chelsea v Manchester City (0-1) | Highlights | Premier League",
+        "description": "Watch the highlights of our Premier League fixture against Manchester City. Download Chelsea FC's official mobile app: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eBJMbzvO58k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eBJMbzvO58k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eBJMbzvO58k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chelsea Football Club",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-06T00:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ur22z-WPjaFhhaYqp5L_sM_e1bk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7dcwAz8zb3Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T16:33:01Z",
+        "channelId": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+        "title": "Goals SO GOOD the goalkeepers DO NOT MOVE! | Premier League",
+        "description": "Goals so good the goalkeepers do not move! A compilation of Premier League goals scored where the goalkeepers do not ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7dcwAz8zb3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7dcwAz8zb3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7dcwAz8zb3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Premier League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T16:33:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gcaqM64dodQUd53-R4GJM3jgt88",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4ceihG3WgMk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T13:18:42Z",
+        "channelId": "UCkzCjdRMrW2vXLx8mvPVLdQ",
+        "title": "EXTENDED HIGHLIGHTS | Man City 4-0 Chelsea | Mahrez, Alvarez &amp; Foden goals seal FA Cup progress!",
+        "description": "City ensured progress through to the Fourth Round of the FA Cup – and a clash with either Oxford or Arsenal – after seeing off ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ceihG3WgMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ceihG3WgMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ceihG3WgMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Man City",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T13:18:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FZe25_ulZU2M-zuglQ0CKeq7pRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E1tM65TrRKY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T22:22:02Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Roma-Fiorentina 2-0 | Dybala at the double! Goals &amp; Highlights | Serie A 2022/23",
+        "description": "An outstanding performance from Roma's attacking duo as Abraham provides twice for 'La Joya' to dispatch ten-men Fiorentina ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E1tM65TrRKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E1tM65TrRKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1tM65TrRKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T22:22:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qL7lxX_Q6kftlqxlfbiD6xCCcDM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ydH2s8eM6w4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-07T12:00:36Z",
+        "channelId": "UCtK4QAczAN2mt2ow_jlGinQ",
+        "title": "MAN UNITED 3-1 EVERTON | FA Cup highlights",
+        "description": "A desperately unlucky Conor Coady own goal and injury-time penalty was the difference as Everton were edged 3-1 by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ydH2s8eM6w4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ydH2s8eM6w4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ydH2s8eM6w4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Everton Football Club",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-07T12:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1aqGVXcQGJbppj7abwnJfUpuaSY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UunE3aGjO2U"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-13T00:00:19Z",
+        "channelId": "UCU2PacFf99vhb3hNiYDmxww",
+        "title": "Fulham v Chelsea (2-1) | Highlights | Premier League",
+        "description": "Highlights from Chelsea's 2-1 Premier League defeat against Fulham at Craven Cottage. Download Chelsea FC's official mobile ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UunE3aGjO2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UunE3aGjO2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UunE3aGjO2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chelsea Football Club",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-13T00:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XEtv2Vai7kotXe-gdDlmg1wmK-U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uj5KrmOJYqs"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T09:01:01Z",
+        "channelId": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+        "title": "Harry Kane finishes swift Spurs move v Arsenal",
+        "description": "Tottenham Hotspur forward Harry Kane finishes a swift counter-attack move from Spurs in a Premier League match against ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uj5KrmOJYqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uj5KrmOJYqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uj5KrmOJYqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Premier League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T09:01:01Z"
+      }
+    }
+  ]
+}
